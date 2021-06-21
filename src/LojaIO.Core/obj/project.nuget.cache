@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0MHXrVoq7XsttYrrj11G9N/wjsMyMWJQDHKWWEvUDMp1e1r9As/VfQzhCTf4oqWJzjrtON+DmLJ55+c3tVIQQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.Core\\LojaIO.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.deps.json
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\bin\Debug\netcoreapp3.1\LojaIO.Core.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\bin\Debug\netcoreapp3.1\LojaIO.Core.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.csprojAssemblyReference.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.AssemblyInfo.cs
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.csproj.CopyComplete
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Domain\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.pdb

@@ -1,0 +1,9 @@
+C:\dev\LojaIO\src\LojaIO.Core\bin\Debug\netcoreapp3.1\LojaIO.Core.deps.json
+C:\dev\LojaIO\src\LojaIO.Core\bin\Debug\netcoreapp3.1\LojaIO.Core.dll
+C:\dev\LojaIO\src\LojaIO.Core\bin\Debug\netcoreapp3.1\LojaIO.Core.pdb
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.csprojAssemblyReference.cache
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.AssemblyInfoInputs.cache
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.AssemblyInfo.cs
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.csproj.CoreCompileInputs.cache
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.dll
+C:\dev\LojaIO\src\LojaIO.Core\obj\Debug\netcoreapp3.1\LojaIO.Core.pdb
