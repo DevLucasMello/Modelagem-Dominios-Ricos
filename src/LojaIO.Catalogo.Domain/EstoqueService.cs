@@ -23,7 +23,7 @@ namespace LojaIO.Catalogo.Domain
             var produto = await _produtoRepository.ObterPorId(produtoId);
 
             if (produto == null) return false;
-            if (!produto.PossuirEstoque(quantidade)) return false;
+            if (!produto.PossuiEstoque(quantidade)) return false;
 
             produto.DebitarEstoque(quantidade);
 

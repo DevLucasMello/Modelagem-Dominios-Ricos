@@ -1,0 +1,16 @@
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.deps.json
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Data.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Core.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Data.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\bin\Debug\netcoreapp3.1\LojaIO.Core.pdb
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.csprojAssemblyReference.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.AssemblyInfoInputs.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.AssemblyInfo.cs
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.csproj.CopyComplete
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.dll
+C:\dev\LojaIO\src\LojaIO.Catalogo.Application\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Application.pdb
