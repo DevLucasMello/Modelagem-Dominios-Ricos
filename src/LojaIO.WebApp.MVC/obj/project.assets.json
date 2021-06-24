@@ -29,6 +29,15 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "FluentValidation/10.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1934,6 +1943,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "FluentValidation": "10.2.3",
           "mediatr": "9.0.0"
         },
         "compile": {
@@ -1941,6 +1951,33 @@
         },
         "runtime": {
           "bin/placeholder/LojaIO.Core.dll": {}
+        }
+      },
+      "LojaIO.Vendas.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LojaIO.Core": "1.0.0",
+          "LojaIO.Vendas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LojaIO.Vendas.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaIO.Vendas.Application.dll": {}
+        }
+      },
+      "LojaIO.Vendas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LojaIO.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LojaIO.Vendas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaIO.Vendas.Domain.dll": {}
         }
       }
     }
@@ -1973,6 +2010,24 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "FluentValidation/10.2.3": {
+      "sha512": "R2w/E6jgg9RPSlg7JQSTHg6AWDwlOXARaV4ZUKrPJ1gi1e+oaBEcomxmo29j9BLZivkyQhOpAboJ9nKZS4/xYA==",
+      "type": "package",
+      "path": "fluentvalidation/10.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.2.3.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer.Core/2.8.26": {
@@ -6955,6 +7010,16 @@
       "type": "project",
       "path": "../LojaIO.Core/LojaIO.Core.csproj",
       "msbuildProject": "../LojaIO.Core/LojaIO.Core.csproj"
+    },
+    "LojaIO.Vendas.Application/1.0.0": {
+      "type": "project",
+      "path": "../LojaIO.Vendas.Application/LojaIO.Vendas.Application.csproj",
+      "msbuildProject": "../LojaIO.Vendas.Application/LojaIO.Vendas.Application.csproj"
+    },
+    "LojaIO.Vendas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LojaIO.Vendas.Domain/LojaIO.Vendas.Domain.csproj",
+      "msbuildProject": "../LojaIO.Vendas.Domain/LojaIO.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6963,6 +7028,7 @@
       "LojaIO.Catalogo.Data >= 1.0.0",
       "LojaIO.Catalogo.Domain >= 1.0.0",
       "LojaIO.Core >= 1.0.0",
+      "LojaIO.Vendas.Application >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.7",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.7",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.7",
@@ -7008,6 +7074,9 @@
             },
             "C:\\dev\\LojaIO\\src\\LojaIO.Core\\LojaIO.Core.csproj": {
               "projectPath": "C:\\dev\\LojaIO\\src\\LojaIO.Core\\LojaIO.Core.csproj"
+            },
+            "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Application\\LojaIO.Vendas.Application.csproj": {
+              "projectPath": "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Application\\LojaIO.Vendas.Application.csproj"
             }
           }
         }

@@ -21,6 +21,7 @@
     <ProjectReference Include="..\LojaIO.Catalogo.Data\LojaIO.Catalogo.Data.csproj" />
     <ProjectReference Include="..\LojaIO.Catalogo.Domain\LojaIO.Catalogo.Domain.csproj" />
     <ProjectReference Include="..\LojaIO.Core\LojaIO.Core.csproj" />
+    <ProjectReference Include="..\LojaIO.Vendas.Application\LojaIO.Vendas.Application.csproj" />
   </ItemGroup>
 
 </Project>

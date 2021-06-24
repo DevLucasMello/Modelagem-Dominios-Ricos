@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tHOHH0W+VVcOrQkRwKkDBE0jXj6Ilqv5idXG1GTqNibfatYtJ57SE4pgyQ1VbhBBdvsAvwj1zyQLWwzFzG263w==",
+  "dgSpecHash": "FWL8+9nPwEA43ro3JadCfLGlyaEXLWhJAgZI4LzWy7mGu8/cqXlRgle3ML880zhwFgooQxkvkEpm2nKlOLnYmw==",
   "success": true,
   "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.Catalogo.Data\\LojaIO.Catalogo.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

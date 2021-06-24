@@ -4,6 +4,7 @@ using LojaIO.Catalogo.Data.Repository;
 using LojaIO.Catalogo.Domain;
 using LojaIO.Catalogo.Domain.Events;
 using LojaIO.Core.Bus;
+using LojaIO.Vendas.Application.Commands;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -23,6 +24,9 @@ namespace LojaIO.WebApp.MVC.Setup
             services.AddScoped<CatalogoContext>();
 
             services.AddScoped<INotificationHandler<ProdutoAbaixoEstoqueEvent>, ProdutoEventHandler>();
+
+            // Vendas
+            services.AddScoped<IRequestHandler<AdicionarItemPedidoCommand, bool>, PedidoCommandHandler>();
         }
     }
 }

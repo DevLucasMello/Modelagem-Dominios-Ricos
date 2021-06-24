@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I0MHXrVoq7XsttYrrj11G9N/wjsMyMWJQDHKWWEvUDMp1e1r9As/VfQzhCTf4oqWJzjrtON+DmLJ55+c3tVIQQ==",
+  "dgSpecHash": "4STxyIo2lq8AG7VyEqy4c3pDX3fnkxmTCHNGxRtlMGnzWaC0o3hr2J+mr5YNEIbwV5q1EETITIc1v7NcLusbdA==",
   "success": true,
   "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.Core\\LojaIO.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []

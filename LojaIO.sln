@@ -29,9 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaIO.Catalogo.Domain.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaIO.Catalogo.Data", "src\LojaIO.Catalogo.Data\LojaIO.Catalogo.Data.csproj", "{46A62BC8-3A87-4853-BB27-C804D5C5B7FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaIO.Catalogo.Application", "src\LojaIO.Catalogo.Application\LojaIO.Catalogo.Application.csproj", "{175CCCDE-08CD-41FB-8000-8D5CA4C66844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaIO.Catalogo.Application", "src\LojaIO.Catalogo.Application\LojaIO.Catalogo.Application.csproj", "{175CCCDE-08CD-41FB-8000-8D5CA4C66844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaIO.WebApp.MVC", "src\LojaIO.WebApp.MVC\LojaIO.WebApp.MVC.csproj", "{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaIO.WebApp.MVC", "src\LojaIO.WebApp.MVC\LojaIO.WebApp.MVC.csproj", "{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaIO.Vendas.Domain", "src\LojaIO.Vendas.Domain\LojaIO.Vendas.Domain.csproj", "{EDA565B1-A06B-4159-8747-B1740859828E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaIO.Vendas.Data", "src\LojaIO.Vendas.Data\LojaIO.Vendas.Data.csproj", "{50E33468-EDFE-4F45-8EA8-122B2ACF00F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaIO.Vendas.Application", "src\LojaIO.Vendas.Application\LojaIO.Vendas.Application.csproj", "{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA565B1-A06B-4159-8747-B1740859828E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA565B1-A06B-4159-8747-B1740859828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA565B1-A06B-4159-8747-B1740859828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA565B1-A06B-4159-8747-B1740859828E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E33468-EDFE-4F45-8EA8-122B2ACF00F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E33468-EDFE-4F45-8EA8-122B2ACF00F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E33468-EDFE-4F45-8EA8-122B2ACF00F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E33468-EDFE-4F45-8EA8-122B2ACF00F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +99,9 @@ Global
 		{46A62BC8-3A87-4853-BB27-C804D5C5B7FD} = {C229E721-9109-4841-B254-4F4B4B4F9E42}
 		{175CCCDE-08CD-41FB-8000-8D5CA4C66844} = {C229E721-9109-4841-B254-4F4B4B4F9E42}
 		{FDCAD50C-55F6-4D9E-ADFD-D5BE55DB84C9} = {A6D9EDF4-D334-47C1-8CDB-8B8FF28E0DDE}
+		{EDA565B1-A06B-4159-8747-B1740859828E} = {45043B11-8AC5-48D8-991E-F40F1BB9F6B6}
+		{50E33468-EDFE-4F45-8EA8-122B2ACF00F3} = {45043B11-8AC5-48D8-991E-F40F1BB9F6B6}
+		{DDFDA470-AAE7-4908-BA67-8A7F87B2A1C7} = {45043B11-8AC5-48D8-991E-F40F1BB9F6B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8367BCBE-0033-49DA-AF3A-FCCA3CA87C0B}

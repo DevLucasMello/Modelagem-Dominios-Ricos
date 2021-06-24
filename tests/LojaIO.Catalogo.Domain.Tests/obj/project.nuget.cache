@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CGvnCA/CX7wztsGzZBfQr2GZe9WuY+sYSdQ5jrRMKZ9+19mFF7jECxBYXwftzmTfGrqlTEqzDpYREpTSm2ZcdQ==",
+  "dgSpecHash": "xIUw9+L+xH0AlMB7iXygc2bebDS8YVsFELLoRWq0wBotwDt4hXK19qgpYs6bh+Cn8S2M7qAHqrtEbIOkLMTh3Q==",
   "success": true,
   "projectFilePath": "C:\\dev\\LojaIO\\tests\\LojaIO.Catalogo.Domain.Tests\\LojaIO.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

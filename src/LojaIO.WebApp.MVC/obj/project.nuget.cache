@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n2io4pSkI8/JoWht/UBxRWVPWbuSZgs6yJM+uGkCQKWuMkbk2TFd66350Gcl3g4kQUnGvFDziUiafyEunaM0lg==",
+  "dgSpecHash": "0uU3XhoFZxOiA9U5BTmYEURX2KBJQGBS08P1pCCZRW9Pmvd1qIfwOYTVnWgp+Vyzf/bFRLUs3ctRNv/rssTqhQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.WebApp.MVC\\LojaIO.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jFaO8kyIiYTHWcr3ALBqmWmCjeXWutauLNEFp0E7iMQuLWLcY5AMz8YaDtnfItzvXERxbtU/k7LLXkjm3vHUkA==",
+  "dgSpecHash": "s/Bwwos4keWBH3xxCkaIUvC2WXn9Q0VVEqMmnG7IVJUTP8FfDsutpXhjLswqv/XXl6p/5iu5PTaKqvH0zCWoog==",
   "success": true,
   "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.Catalogo.Application\\LojaIO.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

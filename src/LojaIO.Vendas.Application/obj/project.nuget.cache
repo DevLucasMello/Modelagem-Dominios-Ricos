@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ay3wJp5nk45D2W7nKA8IOzNNsnIPwGYrIAGSFIMoGojCDp6bWtLJ+1yW8rhLB8GQOvM3CSPKfxMlp7+lgZC6QA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Application\\LojaIO.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
