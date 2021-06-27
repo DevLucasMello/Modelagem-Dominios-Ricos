@@ -1,0 +1,17 @@
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Data.deps.json
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Data.dll
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Data.pdb
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.csprojAssemblyReference.cache
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.AssemblyInfoInputs.cache
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.AssemblyInfo.cs
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.csproj.CoreCompileInputs.cache
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.dll
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.pdb
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Data.runtimeconfig.json
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Data.runtimeconfig.dev.json
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Core.dll
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Domain.dll
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Core.pdb
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\bin\Debug\netcoreapp3.1\LojaIO.Vendas.Domain.pdb
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.csproj.CopyComplete
+C:\dev\LojaIO\src\LojaIO.Vendas.Data\obj\Debug\netcoreapp3.1\LojaIO.Vendas.Data.genruntimeconfig.cache

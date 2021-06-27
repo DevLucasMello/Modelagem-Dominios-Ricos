@@ -100,3 +100,4 @@ C:\dev\LojaIO\tests\LojaIO.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\LojaIO.
 C:\dev\LojaIO\tests\LojaIO.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.Tests.pdb
 C:\dev\LojaIO\tests\LojaIO.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\LojaIO.Catalogo.Domain.Tests.genruntimeconfig.cache
 C:\dev\LojaIO\tests\LojaIO.Catalogo.Domain.Tests\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\dev\LojaIO\tests\LojaIO.Catalogo.Domain.Tests\bin\Debug\netcoreapp3.1\FluentValidation.dll

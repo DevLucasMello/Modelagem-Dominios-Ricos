@@ -27,7 +27,7 @@ using LojaIO.WebApp.MVC.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b3d75f4a9addfd9d79bf6ac3fd8839ea0e4bd8d7", @"/Views/AdminProdutos/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"24f34d51bf1f082bafbfa4b739726c599514be4f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0901eeea1d3485bb5cf8d7797bd52cde8d8bb795", @"/Views/_ViewImports.cshtml")]
     public class Views_AdminProdutos_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<LojaIO.Catalogo.Application.ViewModels.ProdutoViewModel>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "AdminProdutos", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

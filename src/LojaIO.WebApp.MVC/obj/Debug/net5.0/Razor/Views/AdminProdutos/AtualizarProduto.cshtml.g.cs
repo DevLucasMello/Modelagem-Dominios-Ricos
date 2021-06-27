@@ -27,7 +27,7 @@ using LojaIO.WebApp.MVC.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ccc75dc107974bde5591f124759859b4878be106", @"/Views/AdminProdutos/AtualizarProduto.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"24f34d51bf1f082bafbfa4b739726c599514be4f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0901eeea1d3485bb5cf8d7797bd52cde8d8bb795", @"/Views/_ViewImports.cshtml")]
     public class Views_AdminProdutos_AtualizarProduto : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<LojaIO.Catalogo.Application.ViewModels.ProdutoViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("text-danger"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

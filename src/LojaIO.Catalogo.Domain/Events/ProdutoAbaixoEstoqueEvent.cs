@@ -1,7 +1,5 @@
-﻿using LojaIO.Core.DomainObjects;
+﻿using LojaIO.Core.Messages.CommonMessages.DomainEvents;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace LojaIO.Catalogo.Domain.Events
 {

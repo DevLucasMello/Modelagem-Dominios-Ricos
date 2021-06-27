@@ -102,3 +102,14 @@ C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\AdminProdutos\N
 C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Vitrine\Index.cshtml.g.cs
 C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Vitrine\ProdutoDetalhe.cshtml.g.cs
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\FluentValidation.dll
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Application.dll
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Domain.dll
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Application.pdb
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Domain.pdb
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Data.dll
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\bin\Debug\net5.0\LojaIO.Vendas.Data.pdb
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\dev\LojaIO\src\LojaIO.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs

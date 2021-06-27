@@ -1,5 +1,6 @@
 using LojaIO.Catalogo.Application.AutoMapper;
 using LojaIO.Catalogo.Data;
+using LojaIO.Vendas.Data;
 using LojaIO.WebApp.MVC.Data;
 using LojaIO.WebApp.MVC.Setup;
 using MediatR;
@@ -32,6 +33,9 @@ namespace LojaIO.WebApp.MVC
             services.AddDbContext<CatalogoContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<VendasContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddDatabaseDeveloperPageExceptionFilter();
 

@@ -1967,6 +1967,22 @@
           "bin/placeholder/LojaIO.Vendas.Application.dll": {}
         }
       },
+      "LojaIO.Vendas.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LojaIO.Core": "1.0.0",
+          "LojaIO.Vendas.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7"
+        },
+        "compile": {
+          "bin/placeholder/LojaIO.Vendas.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaIO.Vendas.Data.dll": {}
+        }
+      },
       "LojaIO.Vendas.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -7016,6 +7032,11 @@
       "path": "../LojaIO.Vendas.Application/LojaIO.Vendas.Application.csproj",
       "msbuildProject": "../LojaIO.Vendas.Application/LojaIO.Vendas.Application.csproj"
     },
+    "LojaIO.Vendas.Data/1.0.0": {
+      "type": "project",
+      "path": "../LojaIO.Vendas.Data/LojaIO.Vendas.Data.csproj",
+      "msbuildProject": "../LojaIO.Vendas.Data/LojaIO.Vendas.Data.csproj"
+    },
     "LojaIO.Vendas.Domain/1.0.0": {
       "type": "project",
       "path": "../LojaIO.Vendas.Domain/LojaIO.Vendas.Domain.csproj",
@@ -7029,6 +7050,8 @@
       "LojaIO.Catalogo.Domain >= 1.0.0",
       "LojaIO.Core >= 1.0.0",
       "LojaIO.Vendas.Application >= 1.0.0",
+      "LojaIO.Vendas.Data >= 1.0.0",
+      "LojaIO.Vendas.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.7",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.7",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.7",
@@ -7077,6 +7100,12 @@
             },
             "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Application\\LojaIO.Vendas.Application.csproj": {
               "projectPath": "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Application\\LojaIO.Vendas.Application.csproj"
+            },
+            "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Data\\LojaIO.Vendas.Data.csproj": {
+              "projectPath": "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Data\\LojaIO.Vendas.Data.csproj"
+            },
+            "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Domain\\LojaIO.Vendas.Domain.csproj": {
+              "projectPath": "C:\\dev\\LojaIO\\src\\LojaIO.Vendas.Domain\\LojaIO.Vendas.Domain.csproj"
             }
           }
         }

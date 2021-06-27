@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LojaIO.Core.DomainObjects
+namespace LojaIO.Core.Messages.CommonMessages.DomainEvents
 {
     public class DomainEvent : Event
     {
